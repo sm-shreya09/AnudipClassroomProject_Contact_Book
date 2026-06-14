@@ -22,3 +22,5 @@ This project helps users store and manage contact details such as names and phon
 1. Install Python (3.x recommended)  
 2. Clone this repository  
 3. Run the file
+
+   made during learning period.
